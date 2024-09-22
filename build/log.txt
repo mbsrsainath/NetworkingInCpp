@@ -1,0 +1,1 @@
+[2024-09-22 12:16:11.500] [mylogger] [info] Hello world
